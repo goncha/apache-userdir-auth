@@ -1,0 +1,7 @@
+* apache-userdir-auth
+
+Use Lua script to controll priviledged access to WebDAV userdir. Open read-only access, but only owner has write access.
+
+** Requirement
+
+- Apache 2.4+
